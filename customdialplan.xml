@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DialNow>
+	<Data DialNowRule="[2-9]xxxxxxxxx" LineID="0"/>
+	<Data DialNowRule="13xx" LineID="0"/>
+	<Data DialNowRule="11xx" LineID="0"/>
+	<Data DialNowRule="[469]11" LineID="0"/>
+</DialNow>
