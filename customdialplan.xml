@@ -4,4 +4,5 @@
 	<Data DialNowRule="13xx" LineID="0"/>
 	<Data DialNowRule="11xx" LineID="0"/>
 	<Data DialNowRule="[469]11" LineID="0"/>
+	<Data DialNowRule="*9xxxx" LineID="0"/>
 </DialNow>
