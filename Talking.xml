@@ -7,6 +7,7 @@
 		<Key Type="NewCall" />
 		<Key Type="Switch" />
 		<Key Type="PriHold" />
+		<Key Type="Hold" />
 		<Key Type="Park" />
 		<Key Type="GPark" />
 		<Key Type="RTP Status" />
