@@ -5,5 +5,7 @@
 	<Data DialNowRule="11xx" LineID="0"/>
 	<Data DialNowRule="[469]11" LineID="0"/>
 	<Data DialNowRule="*9xxxx" LineID="0"/>
-  	<Data Prefix="*77*(xxxx)" Replace="*77*$1*" LineID="0"/>
 </DialNow>
+<dialrule>
+<Data Prefix="*77*(xxxx)" Replace="*77*$1*" LineID="0"/>
+</dialrule>
