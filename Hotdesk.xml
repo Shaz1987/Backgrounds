@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Replace-Rule File for Yealink SIP Phones -->
+<DialRule>
+  <!-- Match *77*xxxx (any four chars) and append trailing * for hotdesk login button -->
+  <Data Prefix="*77*(xxxx)" Replace="*77*$1*" LineID="0"/>
+</DialRule>
